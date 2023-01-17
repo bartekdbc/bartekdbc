@@ -1,13 +1,23 @@
 <h1 align="center">⚡ Hi there, I'm Bartlomiej Debiec ⚡<h1>
-         
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 🏄‍♂️ Karan Chandekar
+
+**`Passionate FrontEnd Developer`** 🖤❤💜
+
+<p align="left">
+<a href="https://github.com/bartekdbc/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=bartekdbc">
+</a>
+
+#
+
+### 🚀 Some key points
+
+- 🔭 I’m always working on **improving my skills**
+- 🌱 I’m currently learning **React**
+- 👨‍💻 Personal portfolio: **<a href="https://karanchandekar.netlify.app/" target="_blank">Portfolio</a>**
+- 💬 Ask me about **Web, FrontEnd**
+- 📫 How to reach me: **karanchandekar431@gmail.com**
+- ⚡ Fun fact **I am half finished**
 
 ### 🔗 Connect with me
 
