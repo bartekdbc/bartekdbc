@@ -1,20 +1,13 @@
-<h1 align="center">⚡ Hi there, I'm Bartlomiej Debiec ⚡<h1>
-# 🏄‍♂️ Karan Chandekar
+<h1 align="center">🏄‍ Hi there, I'm Bartlomiej Debiec 🏄‍<h1>
 
-**`Passionate FrontEnd Developer`** 🖤❤💜
-
-<p align="left">
-<a href="https://github.com/bartekdbc/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=bartekdbc">
-</a>
-
-#
+<h3 align="center">**`Passionate FrontEnd Developer`** 🖤❤💜
 
 ### 🚀 Some key points
 
 - 🔭 I’m always working on **improving my skills**
-- 🌱 I’m currently learning **React**
-- 👨‍💻 Personal portfolio: **<a href="https://karanchandekar.netlify.app/" target="_blank">Portfolio</a>**
+- 🌱 I’m currently learning **TypeScript** & practise **React*
+- 👨‍💻 All of my projects are available at [https://github.com/patrick36212?tab=repositories](https://github.com/patrick36212?tab=repositories)
+: **<a href="https://karanchandekar.netlify.app/" target="_blank">Portfolio</a>**
 - 💬 Ask me about **Web, FrontEnd**
 - 📫 How to reach me: **karanchandekar431@gmail.com**
 - ⚡ Fun fact **I am half finished**
@@ -30,7 +23,8 @@
 #
            
 ### 🧰 Languages and Tools
-
+    
+<imge align="left" alt="Babel" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
