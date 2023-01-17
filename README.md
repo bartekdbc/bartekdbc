@@ -1,4 +1,4 @@
-<h1 align="center>⚡ Hi there, I'm Bartlomiej Debiec ⚡<h1>
+<h1 align="center">⚡ Hi there, I'm Bartlomiej Debiec ⚡<h1>
          
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,11 +12,9 @@
 ### 🔗 Connect with me
 
 <div align="left">
-<a href="https://www.linkedin.com/in/bartek-d%C4%99biec-819333261" target="blank"><img align="center" src="https://raw.githubusercontent.com/khanhduy1407/gh-profile-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bartek-d%C4%99biec-819333261" height="30" width="40" /></a>
-
-  <a href="https://www.linkedin.com/in/bartek-d%C4%99biec-819333261"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:bartekdbc@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.facebook.com/bartekdbc"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+         <a href="https://www.linkedin.com/in/bartek-d%C4%99biec-819333261" target="blank"><img align="center" src="https://raw.githubusercontent.com/khanhduy1407/gh-profile-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bartek-d%C4%99biec-819333261" height="30" width="40" /></a>
+         <a href="mailto:bartekdbc@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+         <a href="https://www.facebook.com/bartekdbc"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
 </div>
 
 #
