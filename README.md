@@ -1,16 +1,13 @@
 <h1 align="center">🏄‍ Hi there, I'm Bartlomiej Debiec 🏄‍<h1>
 
-<h3 align="center">**`Passionate FrontEnd Developer`** 🖤❤💜
+<h2 align="center">**`Passionate FrontEnd Developer`** 🖤❤💜
 
 ### 🚀 Some key points
 
 - 🔭 I’m always working on **improving my skills**
 - 🌱 I’m currently learning **TypeScript** & practise **React*
-- 👨‍💻 All of my projects are available at [https://github.com/patrick36212?tab=repositories](https://github.com/patrick36212?tab=repositories)
-: **<a href="https://karanchandekar.netlify.app/" target="_blank">Portfolio</a>**
+- 👨‍💻 All of my projects are available at **<a href="https://github.com/bartekdbc?tab=repositories" target="_blank">Portfolio</a>**
 - 💬 Ask me about **Web, FrontEnd**
-- 📫 How to reach me: **karanchandekar431@gmail.com**
-- ⚡ Fun fact **I am half finished**
 
 ### 🔗 Connect with me
 
