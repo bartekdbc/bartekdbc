@@ -1,4 +1,4 @@
-#<h1 align="center">🏄‍ Hi there, I'm Bartlomiej Debiec 🏄‍<h1>
+# 🏄‍ Hi there, I'm Bartlomiej Debiec 🏄‍
 
 ## 🚀 Some key points
 
