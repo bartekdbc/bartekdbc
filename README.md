@@ -1,7 +1,5 @@
 <h1 align="center">🏄‍ Hi there, I'm Bartlomiej Debiec 🏄‍<h1>
 
-<h2 align="center">**`Passionate FrontEnd Developer`** 🖤❤💜
-
 ### 🚀 Some key points
 
 - 🔭 I’m always working on **improving my skills**
