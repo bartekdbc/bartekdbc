@@ -1,6 +1,5 @@
 # 🏄‍ Hi there, I'm Bartlomiej Debiec 🏄‍
 
-## 🚀 Some key points
 
 - 🔭 I’m always working on **improving my skills**
 - 🌱 I’m currently learning **TypeScript** & practise **React*
