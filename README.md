@@ -1,21 +1,19 @@
-# 🏄‍ Hi there, I'm Bartlomiej Debiec 🏄‍
+## Hey there 👋, I'm Bartlomiej Debiec 🏄‍
 
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link="https://www.linkedin.com/in/bartek-d%C4%99biec-819333261) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bartekdbc@gmail.com)](mailto:bartekdbc@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/bartekdbc)](https://www.facebook.com/bartekdbc)
 
-- 🔭 I’m always working on **improving my skills**
-- 🌱 I’m currently learning **TypeScript** & practise **React*
-- 👨‍💻 All of my projects are available at **<a href="https://github.com/bartekdbc?tab=repositories" target="_blank">Portfolio</a>**
-- 💬 Ask me about **Web, FrontEnd**
+### Glad to see you here!
 
-## 🔗 Connect with me
+I'm a frontend developer who is passionate about learning and creating new things 💡.  I love to explore new technologies and leverage them to solve real-life problems ✨. Life motto: Keeping the good mood and the good code 🙃!
 
-<div align="left">
-         <a href="https://www.linkedin.com/in/bartek-d%C4%99biec-819333261" target="blank"><img align="center" src="https://raw.githubusercontent.com/khanhduy1407/gh-profile-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bartek-d%C4%99biec-819333261" height="30" width="40" /></a>
-         <a href="mailto:bartekdbc@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-         <a href="https://www.facebook.com/bartekdbc"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-</div>
+### More about me:
 
+- 💻 Currently working, learning and growing my skillset in **JavaScript**, **React** and **Typescript**.
+- 🔭 &nbsp; I love exploring new tech stack and building cool stuffs
+- 🌐 &nbsp; All of my projects are available at **[Portfolio](https://github.com/bartekdbc?tab=repositories)**
+- 📝 &nbsp; Feel free to contact me about new projects: bartekdbc@gmail.com.
            
-## 🧰 Languages and Tools
+### Languages and Tools 
     
 <imge align="left" alt="Babel" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
