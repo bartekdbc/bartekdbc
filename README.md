@@ -1,4 +1,4 @@
-## <img alt="HandWave" src="" width='40' align="left"/> Hey, I'm Bartlomiej Debiec 🏄‍
+## Hey there 👋, I'm Bartlomiej Debiec 🏄‍
 
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link="https://www.linkedin.com/in/bartek-d%C4%99biec-819333261) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bartekdbc@gmail.com)](mailto:bartekdbc@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/bartekdbc)](https://www.facebook.com/bartekdbc)
 
@@ -12,7 +12,7 @@ I'm a frontend developer who is passionate about learning and creating new thing
 - 💻 &nbsp; Currently learning, growing and practising my skillset in **React** and **Typescript**.
 - 🔭 &nbsp; I love exploring new tech stack and building cool stuffs
 - 🌐 &nbsp; All of my projects are available at **[Portfolio](https://github.com/bartekdbc?tab=repositories)**
-- ✉️ &nbsp; Feel free to contact me about new projects: bartekdbc@gmail.com.
+- ✉️ &nbsp; Feel free to contact me about new projects: **bartekdbc@gmail.com**.
            
 ### Languages and Tools 
     
