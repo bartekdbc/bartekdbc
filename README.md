@@ -8,10 +8,10 @@ I'm a frontend developer who is passionate about learning and creating new thing
 
 ### More about me:
 
-- 🌱 &nbsp; I'm currently working on **[Movies Browser](https://github.com/greedyChicken/movies-browser)**
+- 🌱 &nbsp; I'm currently working on **[Movies Browser](https://github.com/greedyChicken/movies-browser)**.
 - 💻 &nbsp; Currently learning, growing and practising my skillset in **React** and **Typescript**.
-- 🔭 &nbsp; I love exploring new tech stack and building cool stuffs
-- 🌐 &nbsp; All of my projects are available at **[Portfolio](https://github.com/bartekdbc?tab=repositories)**
+- 🔭 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 🌐 &nbsp; All of my projects are available at **[Portfolio](https://github.com/bartekdbc?tab=repositories)**.
 - ✉️ &nbsp; Feel free to contact me about new projects: **bartekdbc@gmail.com**.
            
 ### Languages and Tools 
