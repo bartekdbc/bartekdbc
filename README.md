@@ -12,7 +12,7 @@ I'm a Frontend Developer who is passionate about learning and creating new thing
 - 💻 &nbsp; Currently learning, growing and practising my skillset in **React** and **Typescript**.
 - 🔭 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 🌐 &nbsp; All of my projects are available at **[Portfolio](https://github.com/bartekdbc?tab=repositories)**.
-- ✉️ &nbsp; Feel free to contact me about new projects: **bartekdbc@gmail.com**.
+- ✉️ &nbsp; Feel free to contact me about new projects or job opportunities: **bartekdbc@gmail.com**.
            
 ### Languages and Tools 
     
