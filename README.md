@@ -4,7 +4,7 @@
 
 ### Glad to see you here!
 
-I'm a frontend developer who is passionate about learning and creating new things 💡.  I love to explore new technologies and leverage them to solve real-life problems ✨. Life motto: **Keeping the good mood and the good code** 🙃!
+I'm a Frontend Developer who is passionate about learning and creating new things 💡.  I love to explore new technologies and leverage them to solve real-life problems ✨. Life motto: **Keeping the good mood and the good code** 🙃!
 
 ### More about me:
 
