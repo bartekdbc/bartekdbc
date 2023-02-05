@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm Bartlomiej Debiec 🏄‍
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link="https://www.linkedin.com/in/bartek-d%C4%99biec-819333261) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bartekdbc@gmail.com)](mailto:bartekdbc@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/bartekdbc)](https://www.facebook.com/bartekdbc)
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/bartlomiejdebiec/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bartekdbc@gmail.com)](mailto:bartekdbc@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/bartekdbc)](https://www.facebook.com/bartekdbc)
 
 ### Glad to see you here!
 
