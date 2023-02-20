@@ -8,7 +8,7 @@ I'm a Frontend Developer who is passionate about learning and creating innovativ
 
 ### More about me:
 
-- 🌱 &nbsp; I'm currently working on **[Movies Browser](https://github.com/greedyChicken/movies-browser)**.
+- 🌱 &nbsp; I'm currently working on **[Movies Browser](https://github.com/bartekdbc/movies-browser)**.
 - 💻 &nbsp; Currently learning, growing and practising my skillset in **React** and **Typescript**.
 - 🔭 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 🌐 &nbsp; All of my projects are available at **[Portfolio](https://github.com/bartekdbc?tab=repositories)**.
