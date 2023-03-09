@@ -6,6 +6,9 @@
 
 I'm a Frontend Developer who is passionate about learning and creating innovative things 💡.  I love to explore new technologies and leverage them to solve real-life problems ✨. Life motto: **Keeping the good mood and the good code** 🙃!
 
+#
+<a href="#"><img width="35%" height="auto" align="right" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47is931x8jehx0nrusa5e9mwzdcgtftsqvwp5lpl1j&rid=giphy.gif&ct=g" /></a>
+
 ### More about me:
 
 - 🌱 &nbsp; I'm currently working on **[Movies Browser](https://github.com/bartekdbc/movies-browser)**.
@@ -13,6 +16,9 @@ I'm a Frontend Developer who is passionate about learning and creating innovativ
 - 🔭 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 🌐 &nbsp; All of my projects are available at **[Portfolio](https://github.com/bartekdbc?tab=repositories)**.
 - ✉️ &nbsp; Feel free to contact me about new projects or job opportunities: **bartekdbc@gmail.com**.
+- 🐶 Fun fact **I am deeply in love with Boxers ❤️**
+
+#
            
 ### Languages and Tools 
     
