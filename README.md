@@ -1,8 +1,8 @@
-## Hey there 👋, I'm Bartlomiej Debiec 🏄‍
+## Hey there 👋 I'm Bartlomiej Debiec 🏄‍
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/bdebiec)](https://www.linkedin.com/in/bartlomiejdebiec/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bartekdbc@gmail.com)](mailto:bartekdbc@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/bartekdbc)](https://www.facebook.com/bartekdbc)
 
-### Glad to see you here!
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile;Glad+to+see+you+here!;Let's+code+together💻)](https://git.io/typing-svg)
 
 I'm a Frontend Developer who is passionate about learning and creating innovative things 💡.  I love to explore new technologies and leverage them to solve real-life problems ✨. Life motto: **Keeping the good mood and the good code** 🙃!
 
