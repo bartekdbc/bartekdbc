@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Welcome+to+my+GitHub+Profile;Glad+to+see+you+here!;Let's+code+awesome+things+together+💻)](https://git.io/typing-svg)
 
-I'm a Frontend Developer who is passionate about learning and creating innovative things 💡.  I love to explore new technologies and leverage them to solve real-life problems ✨. I always try to beat previous version of me and make myself better day by day, giving my best to learn and acquire top skills in order to become a great developer. 🎯 Life motto: **Keeping the good mood and the good code** 🙃!
+I'm a Frontend Developer who is passionate about learning and creating innovative things 💡.  I love to explore new technologies and leverage them to solve real-life problems ✨. I always try to beat previous version of me and make myself better day by day, giving my best to learn and acquire top programming skills in order to become a great developer. 🎯 Life motto: **Keeping the good mood and the good code** 🙃!
 
 <p align="left">
 <a href="https://github.com/bartekdbc/github-profile-views-counter">
