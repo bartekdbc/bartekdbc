@@ -21,7 +21,7 @@ I'm a Frontend Developer who is passionate about learning and creating innovativ
 - 🔭 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 🌐 &nbsp; All of my projects are available at **[Portfolio](https://github.com/bartekdbc?tab=repositories)**.
 - ✉️ &nbsp; Feel free to contact me about new projects or job opportunities: **bartekdbc@gmail.com**.
-- 🐶 Fun fact **I am deeply in love with Boxers ❤️**
+- 🐶 Fun fact **I am deeply in love with Boxers **
 
 #
            
