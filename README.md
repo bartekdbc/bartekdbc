@@ -16,7 +16,7 @@ I'm a Frontend Developer who is passionate about learning and creating innovativ
 
 ### More about me:
 
-- 🌱 &nbsp; I'm currently working on **[Movies Browser](https://github.com/bartekdbc/movies-browser)**.
+- 🌱 &nbsp; I'm currently working on **[CertifyHub]**.
 - 💻 &nbsp; Currently learning, growing and mastering my skillset in **React**, **Angular** and **Typescript**.
 - 🔭 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 🌐 &nbsp; All of my projects are available at **[Portfolio](https://github.com/bartekdbc?tab=repositories)**.
